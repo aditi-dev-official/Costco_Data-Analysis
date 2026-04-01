@@ -50,7 +50,7 @@ The project includes data exploration, visualization, and interpretation aimed a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/gopuff-analysis.git
+git clone https://github.com/aditi-dev-official/Costco_Data-Analysis.git
 ```
 
 ### 2. Install dependencies
