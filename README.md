@@ -1,16 +1,16 @@
-#  GoPuff Analysis Project
+#  Costco Project Analysis
 "This repository contains data cleaning, exploratory analysis, and insights related to GoPuff's delivery operations and business performance."
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📘 Overview
 
-This repository contains a comprehensive analysis of **GoPuff**, focusing on operational performance, customer behavior, and business insights.
+This repository contains a comprehensive analysis of **Costco**, focusing on operational performance, customer behavior, and business insights.
 The project includes data exploration, visualization, and interpretation aimed at understanding key trends and performance indicators within GoPuff's model.
 
 ## 🔍 Objectives
 
-* Analyze GoPuff operational and business data
+* Analyze Costco  operational and business data
 * Perform exploratory data analysis (EDA)
 * Identify key trends, patterns, and anomalies
 * Generate visualizations for insights
